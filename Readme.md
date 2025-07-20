@@ -1,7 +1,7 @@
 # 🏓 Pong Game - C++ OOP & Design Patterns
 
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
-[![Raylib](https://img.shields.io/badge/Raylib-Graphics-red?style=for-the-badge)](https://www.raylib.com/)]
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-Graphics-red?style=for-the-badge)(https://www.raylib.com/)
 
 
 > A modern implementation of the classic Pong game demonstrating **Object-Oriented Programming** principles and **Design Patterns** in C++
