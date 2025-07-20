@@ -152,8 +152,5 @@ g++ -o main main.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 
 ---
 
-*"From simple game mechanics to professional software architecture—showcasing the journey of mastering C++ through practical application."*
-
-**🏓 Classic Gaming + 🎯 Modern C++ + 🏗️ Professional Architecture = 🚀 Industry-Ready Skills**
 
 </div>
