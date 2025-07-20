@@ -1,7 +1,6 @@
 # 🏓 Pong Game - C++ OOP & Design Patterns
 
-
-Game.gif
+![Pong Game Demo](Game.gif)
 A modern Pong game showcasing **Object-Oriented Programming** and **Design Patterns** in C++.
 
 ## 🎮 Features
