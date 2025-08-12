@@ -7,7 +7,7 @@
 > A modern implementation of the classic Pong game demonstrating **Object-Oriented Programming** principles and **Design Patterns** in C++
 
 <div align="center">
-  <img src="game.png" alt="Pong Game Screenshot" width="600">
+  <img src="img/game.png" alt="Pong Game Screenshot" width="600">
 </div>
 
 ---
@@ -21,7 +21,7 @@ This Pong game serves as a comprehensive demonstration of **advanced C++ program
 ## 🎮 **Live Gameplay Demo**
 
 <div align="center">
-  <img src="Game.gif" alt="Pong Game Demo" width="800">
+  <img src="img/Game.gif" alt="Pong Game Demo" width="800">
   <p><em>Watch the game in action - showcasing real-time gameplay, AI behavior, and smooth performance</em></p>
 </div>
 
