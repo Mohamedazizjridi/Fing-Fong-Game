@@ -12,13 +12,13 @@
 
 ---
 
-## 📖 **About This Project**
+##  **About This Project**
 
 This Pong game serves as a comprehensive demonstration of **advanced C++ programming concepts**, showcasing how classic game development principles can be implemented using modern object-oriented design patterns. The project emphasizes clean architecture, maintainable code, and professional development practices.
 
 ---
 
-## 🎮 **Live Gameplay Demo**
+##  **Live Gameplay Demo**
 
 <div align="center">
   <img src="img/Game.gif" alt="Pong Game Demo" width="800">
@@ -27,30 +27,30 @@ This Pong game serves as a comprehensive demonstration of **advanced C++ program
 
 ---
 
-## ✨ **Key Features**
+##  **Key Features**
 
 | Feature | Description |
 |---------|-------------|
-| 🎯 **Classic Gameplay** | Authentic Pong mechanics with modern enhancements |
-| 🤖 **AI Opponent** | Intelligent CPU player with adjustable difficulty |
-| 🎨 **State Management** | Clean menu system (Start, Playing, Paused, Game Over) |
-| ⚡ **Performance** | Smooth 60 FPS gameplay with optimized rendering |
-| 🏗️ **Clean Architecture** | Professional C++ code following best practices |
+| **Classic Gameplay** | Authentic Pong mechanics with modern enhancements |
+|  **AI Opponent** | Intelligent CPU player with adjustable difficulty |
+|  **State Management** | Clean menu system (Start, Playing, Paused, Game Over) |
+|  **Performance** | Smooth 60 FPS gameplay with optimized rendering |
+|  **Clean Architecture** | Professional C++ code following best practices |
 
 ---
 
-## 🏗️ **Project Architecture**
+##  **Project Architecture**
 
 ### **File Structure**
 ```
 Game/
-├── 📄 main.cpp          # Entry point & game initialization
-├── 📄 game.cpp          # Core game logic & class implementations
-├── ⚙️ Makefile          # Build configuration & dependencies
-├── 🎮 main              # Compiled executable
-├── 📁 assets/           # Game assets (images, demos)
-├── 📚 README.md         # Project documentation
-└── 🔧 *.dll             # Windows runtime libraries
+├──  main.cpp          # Entry point & game initialization
+├──  game.cpp          # Core game logic & class implementations
+├──  Makefile          # Build configuration & dependencies
+├──  main              # Compiled executable
+├──  assets/           # Game assets (images, demos)
+├──  README.md         # Project documentation
+└──  *.dll             # Windows runtime libraries
 ```
 
 ### **System Overview**
@@ -74,13 +74,13 @@ graph TD
 
 | Principle | Implementation | Example |
 |-----------|---------------|---------|
-| **🔒 Encapsulation** | Private data with public interfaces | `Ball` class hides internal physics |
-| **🧬 Inheritance** | `CPUPaddle` extends `Paddle` | Code reuse and specialization |
-| **🎭 Polymorphism** | Virtual functions with overrides | Different `update()` behaviors |
-| **🎨 Abstraction** | `GameObject` abstract base class | Common interface for all entities |
+| ** Encapsulation** | Private data with public interfaces | `Ball` class hides internal physics |
+| ** Inheritance** | `CPUPaddle` extends `Paddle` | Code reuse and specialization |
+| ** Polymorphism** | Virtual functions with overrides | Different `update()` behaviors |
+| ** Abstraction** | `GameObject` abstract base class | Common interface for all entities |
 
 ---
-## 🚀 **Getting Started**
+##  **Getting Started**
 
 ### **Prerequisites**
 - **C++ Compiler**: GCC 7.0+, Clang 5.0+, or MSVC 2017+
@@ -118,7 +118,7 @@ g++ -o main main.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 
 ---
 
-## 🔮 **Future Enhancements**
+##  **Future Enhancements**
 
 ### **Planned Features**
 - [ ] **Sound System**: Audio feedback and background music
@@ -133,7 +133,7 @@ g++ -o main main.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 - [ ] **Configuration System**: External settings file support
 - [ ] **Performance Profiler**: Built-in performance monitoring
 
-## 🙏 **Acknowledgments**
+##  **Acknowledgments**
 
 - **Raylib Community**: Excellent graphics library and documentation
 - **Modern C++ Guidelines**: Best practices and coding standards
@@ -144,11 +144,11 @@ g++ -o main main.cpp game.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
 
 <div align="center">
 
-**⭐ Star this repository if you found it helpful!**
+** Star this repository if you found it helpful!**
 
-**🍴 Fork to explore and learn from the code**
+** Fork to explore and learn from the code**
 
-**💬 Open an issue for questions or suggestions**
+** Open an issue for questions or suggestions**
 
 ---
 
